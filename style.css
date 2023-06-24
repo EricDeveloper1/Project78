@@ -1,0 +1,10 @@
+  body {
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  button {
+    color: brown;
+    border-radius: 2px;
+    font-size: 20px;
+  }
+  
